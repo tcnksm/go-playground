@@ -22,6 +22,7 @@ func main() {
 		return
 	}
 
+	// Download from server when establising tls connection.
 	serverPem, err := ioutil.ReadFile("certs/server.pem")
 	if err != nil {
 		fmt.Printf("Err: %s\n", err)
