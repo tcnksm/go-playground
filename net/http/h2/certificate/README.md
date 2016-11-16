@@ -1,4 +1,4 @@
-# Generating cert files
+
 
 ```bash
 $ openssl genrsa -out rootCA.key 2048

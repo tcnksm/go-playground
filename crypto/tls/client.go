@@ -5,6 +5,7 @@ import (
 	"crypto/tls"
 	"crypto/x509"
 	"fmt"
+	"go/ast"
 	"io"
 	"io/ioutil"
 	"log"
@@ -30,6 +31,7 @@ func main() {
 		RootCAs: roots,
 	}
 
+	ast.Package.Imports
 	conn, err := tls.Dial("tcp", "127.0.0.1:443", &config)
 	if err != nil {
 		log.Printf("[ERROR] %s\n", err)
