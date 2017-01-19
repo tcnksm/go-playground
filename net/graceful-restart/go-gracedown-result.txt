@@ -1,0 +1,57 @@
+346 requests done.
+846 requests done.
+1242 requests done.
+1722 requests done.
+2110 requests done.
+2610 requests done.
+3010 requests done.
+3510 requests done.
+3910 requests done.
+4410 requests done.
+4810 requests done.
+5310 requests done.
+5710 requests done.
+6184 requests done.
+6610 requests done.
+7010 requests done.
+7410 requests done.
+7910 requests done.
+8310 requests done.
+8810 requests done.
+9210 requests done.
+9710 requests done.
+9973 requests done.
+9993 requests done.
+All requests done.
+
+Summary:
+  Total:	12.1679 secs
+  Slowest:	1.1986 secs
+  Fastest:	0.1002 secs
+  Average:	0.1127 secs
+  Requests/sec:	821.8328
+
+Status code distribution:
+  [200]	10000 responses
+
+Response time histogram:
+  0.100 [1]	|
+  0.210 [9995]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.320 [0]	|
+  0.430 [0]	|
+  0.540 [0]	|
+  0.649 [0]	|
+  0.759 [0]	|
+  0.869 [0]	|
+  0.979 [0]	|
+  1.089 [0]	|
+  1.199 [4]	|
+
+Latency distribution:
+  10% in 0.1014 secs
+  25% in 0.1025 secs
+  50% in 0.1045 secs
+  75% in 0.1067 secs
+  90% in 0.1731 secs
+  95% in 0.1813 secs
+  99% in 0.1870 secs

@@ -1,0 +1,53 @@
+400 requests done.
+900 requests done.
+1400 requests done.
+1900 requests done.
+2303 requests done.
+2800 requests done.
+3300 requests done.
+3800 requests done.
+4300 requests done.
+4700 requests done.
+5200 requests done.
+5700 requests done.
+6200 requests done.
+6600 requests done.
+7100 requests done.
+7600 requests done.
+8100 requests done.
+8500 requests done.
+9000 requests done.
+9500 requests done.
+All requests done.
+
+Summary:
+  Total:	10.4634 secs
+  Slowest:	0.1206 secs
+  Fastest:	0.1002 secs
+  Average:	0.1046 secs
+  Requests/sec:	955.7154
+
+Status code distribution:
+  [200]	10000 responses
+
+Response time histogram:
+  0.100 [1]	|
+  0.102 [2234]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.104 [3304]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.106 [2341]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.108 [1349]	|∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎∎
+  0.110 [271]	|∎∎∎
+  0.112 [161]	|∎∎
+  0.114 [40]	|
+  0.116 [46]	|∎
+  0.119 [136]	|∎∎
+  0.121 [117]	|∎
+
+Latency distribution:
+  10% in 0.1014 secs
+  25% in 0.1024 secs
+  50% in 0.1039 secs
+  75% in 0.1060 secs
+  90% in 0.1076 secs
+  95% in 0.1104 secs
+  99% in 0.1187 secs
